@@ -1,0 +1,20 @@
+{
+  "name": "Repo19",
+  "version": "1.0.0",
+  "description": "Paragon Arena Day 19",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BasilBosnjak/Repo19.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BasilBosnjak/Repo19/issues"
+  },
+  "homepage": "https://github.com/BasilBosnjak/Repo19#readme"
+}
